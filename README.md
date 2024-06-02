@@ -29,7 +29,16 @@
 </div>
 <br><br>  
 
+## Cloud [⬇️](#--gifs-for-readme--)
+  
+<div align="left">
+<!-- React  next js ts -->
+<img src="https://miro.medium.com/v2/resize:fit:679/0*FJJugDwO6kMmcIpz.gif" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Ng6IpyLfhL6gqf1Yxlpb48T_6QBxbLCMEcU4IntwTjH_gndwiAP11GYFsCTJMJdeOrs&usqp=CAU" width="100">
+<img src="https://i.pinimg.com/originals/f8/69/2c/f8692cb6767a74417c015360cd453b5b.gif" width="100">
 
+</div>
+<br><br>  
 
 
 ## Software Engineering [⬇️](#--gifs-for-readme--)
