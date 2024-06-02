@@ -14,7 +14,7 @@
 
 ## Software Engineering [🔝](#--gifs-for-readme--)
   
-<div align="center">
+<div align="left">
 <!-- React  next js ts -->
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*kRpcLblCI85FYhvmTxjt3Q.gif" width="100">
