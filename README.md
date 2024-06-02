@@ -12,7 +12,27 @@
 
 <br>
 
-## Software Engineering [🔝](#--gifs-for-readme--)
+
+## Devops [⬇️](#--gifs-for-readme--)
+  
+<div align="left">
+<!-- React  next js ts -->
+<img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="100">
+<img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2016/10/compose-logo.jpg?ssl=1" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="100">
+<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" width="100">
+<img src="https://img-c.udemycdn.com/course/750x422/3930400_0bea.jpg" width="100">
+<img src="https://sue.eu/wp-content/uploads/sites/6/2022/06/kubernetes-logo-920x920-sue-v0.png" width="100">
+
+</div>
+<br><br>  
+
+
+
+
+## Software Engineering [⬇️](#--gifs-for-readme--)
   
 <div align="left">
 <!-- React  next js ts -->
@@ -31,7 +51,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
@@ -45,7 +64,7 @@
 </div>
 <br><br>    
 
-## Get in Touch [🔝](#--gifs-for-readme--)
+## Get in Touch [⬇️](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
