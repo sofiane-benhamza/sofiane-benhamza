@@ -37,7 +37,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://api.pgxn.org/src/postgresql_anonymizer/postgresql_anonymizer-0.2.1/postgresql_anonymizer.logo.static.gif" width="100">
+<img src="https://media4.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=6c09b9525fxgr7s74wzicwwjgxlnqy1ay9mc5v8qcvgc83ne&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+
+
 </div>
 <br><br>    
 
@@ -47,6 +51,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />
+
 <br><br>
 
 
